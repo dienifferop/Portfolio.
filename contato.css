@@ -1,0 +1,47 @@
+body{
+    color: rgb(54, 0, 90);
+    background-color: #826dfa;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul{
+       align-items: center;
+    
+}
+
+h1{
+    color: rgb(8, 2, 31);
+    align-items: center;
+    padding: 50px;
+    align-items: center;
+}
+.center{
+    text-align: center;
+}
+footer img{
+    width: 40px;
+    height: 40px;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+}
+
+footer a{
+    margin: 20px;
+    text-align: center;
+    padding: 50px;
+}
+
+footer p{
+    margin: 20px;
+    text-align: center;
+    margin-top: 2px;
+}
+
+.container{
+    padding: 0px 100px;
+    
+}
+
